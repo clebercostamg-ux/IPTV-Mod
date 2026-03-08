@@ -1,0 +1,372 @@
+#EXTM3U
+
+#EXTINF:-1,BBB MOSAICO
+
+http://pfast500.vip:80/tvcleber/cleber1995/351254.ts
+
+#EXTINF:-1,BBB Cam 12
+
+http://pfast500.vip:80/tvcleber/cleber1995/351255.ts
+
+#EXTINF:-1,BBB CAM 11
+
+http://pfast500.vip:80/tvcleber/cleber1995/351256.ts
+
+#EXTINF:-1,BBB CAM 10
+
+http://pfast500.vip:80/tvcleber/cleber1995/351257.ts
+
+#EXTINF:-1,BBB CAM 9
+
+http://pfast500.vip:80/tvcleber/cleber1995/351342.ts
+
+#EXTINF:-1,BBB CAM 8
+
+http://pfast500.vip:80/tvcleber/cleber1995/351436.ts
+
+#EXTINF:-1,BBB CAM 7
+
+http://pfast500.vip:80/tvcleber/cleber1995/351537.ts
+
+#EXTINF:-1,BBB CAM 6
+
+http://pfast500.vip:80/tvcleber/cleber1995/351603.ts
+
+#EXTINF:-1,BBB CAM 5
+
+http://pfast500.vip:80/tvcleber/cleber1995/351925.ts
+
+#EXTINF:-1,BBB CAM 4
+
+http://pfast500.vip:80/tvcleber/cleber1995/351951.ts
+
+#EXTINF:-1,BBB CAM 3
+
+http://pfast500.vip:80/tvcleber/cleber1995/351952.ts
+
+#EXTINF:-1,BBB CAM 2
+
+http://pfast500.vip:80/tvcleber/cleber1995/351953.ts
+
+#EXTINF:-1,BBB CAM 1
+
+#EXTINF:-1,GLOBO SP [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/354.ts
+
+#EXTINF:-1,GLOBO RJ [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/352.ts
+
+#EXTINF:-1,GLOBO TV INTEGRACAO JUIZ DE FORA [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/65249.ts
+
+#EXTINF:-1,SBT Alterosa [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/296293.ts
+
+#EXTINF:-1,RECORDTV MG [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/315652.ts
+
+#EXTINF:-1,BAND TV MINAS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/123583.ts
+
+#EXTINF:-1,Amazon SAT [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/342856.ts
+
+#EXTINF:-1,CANAL DO BOI [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/199614.ts
+
+#EXTINF:-1,Canal Rural [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/234102.ts
+
+#EXTINF:-1,CBI [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/330673.ts
+
+#EXTINF:-1,CNT [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/317740.ts
+
+#EXTINF:-1,FUTURA [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/43.ts
+
+#EXTINF:-1,ISTV [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/333096.ts
+
+#EXTINF:-1,Rede Brasil [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/300986.ts
+
+#EXTINF:-1,REDE MINAS [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/331693.ts
+
+#EXTINF:-1,REDETV! [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/48.ts
+
+#EXTINF:-1,TV ACRITICA [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/333087.ts
+
+#EXTINF:-1,TV BRASIL [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/329751.ts
+
+#EXTINF:-1,TV BRASIL 2 [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/358378.ts
+
+#EXTINF:-1,TV CULTURA [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/47.ts
+
+#EXTINF:-1,TV Câmara [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/320390.ts
+
+#EXTINF:-1,Tv Diario [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/343604.ts
+
+#EXTINF:-1,TV GAZETA SP [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/49.ts
+
+#EXTINF:-1,TV JUSTICA [SD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/73.ts
+
+#EXTINF:-1,TV LITORAL RN [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/331647.ts
+
+#EXTINF:-1,TV Meio Norte [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/331322.ts
+
+#EXTINF:-1,TV Pampa [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/326749.ts
+
+#EXTINF:-1,TV SENADO [SD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/72.ts
+
+#EXTINF:-1,TV Gazin [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/350668.ts
+
+#EXTINF:-1,TVE Bahia [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/356560.ts
+
+#EXTINF:-1,TV RIO PRETO [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/356676.ts
+
+#EXTINF:-1,CATVE [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/358381.ts
+
+#EXTINF:-1,Central | Top TV [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/358383.ts
+
+#EXTINF:-1,CANAL EDUCAÇÃO [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/358701.ts
+
+#EXTINF:-1,TV Diário do Sertão [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/360385.ts
+
+#EXTINF:-1,TV Candides MG [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/364750.ts
+
+#EXTINF:-1,BAND NEWS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/510.ts
+
+#EXTINF:-1,BM&C [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/234097.ts
+
+#EXTINF:-1,Canal UOL [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/329747.ts
+
+#EXTINF:-1,CNBC Brasil [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/316223.ts
+
+#EXTINF:-1,CNN BRASIL [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/513.ts
+
+#EXTINF:-1,CNN Brasil Money [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/251746.ts
+
+#EXTINF:-1,CNN INTERNACIONAL [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/69087.ts
+
+#EXTINF:-1,GLOBO NEWS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/512.ts
+
+#EXTINF:-1,JOVEM PAN NEWS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/98166.ts
+
+#EXTINF:-1,RECORD NEWS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/511.ts
+
+#EXTINF:-1,SBT NEWS [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/348108.ts
+
+#EXTINF:-1,[24H] Doug
+
+http://pfast500.vip:80/tvcleber/cleber1995/227615.ts
+
+#EXTINF:-1,[24H] Kenan e Kel
+
+http://pfast500.vip:80/tvcleber/cleber1995/227756.ts
+
+#EXTINF:-1,[24H] Mr. Bean
+
+http://pfast500.vip:80/tvcleber/cleber1995/228507.ts
+
+#EXTINF:-1,[24H] Operacao Fronteira America do Sul
+
+http://pfast500.vip:80/tvcleber/cleber1995/227853.ts
+
+#EXTINF:-1,[24H] Os Normais
+
+http://pfast500.vip:80/tvcleber/cleber1995/227883.ts
+
+#EXTINF:-1,[24H] Pica Pau
+
+http://pfast500.vip:80/tvcleber/cleber1995/227941.ts
+
+#EXTINF:-1,BAND SPORTS [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/30275.ts
+
+#EXTINF:-1,COMBATE [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/30276.ts
+
+#EXTINF:-1,ESPN [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/30280.ts
+
+#EXTINF:-1,ESPN 2 [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/30281.ts
+
+#EXTINF:-1,ESPN 3 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/254.ts
+
+#EXTINF:-1,ESPN 4 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/255.ts
+
+#EXTINF:-1,ESPN 5 [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/330702.ts
+
+#EXTINF:-1,ESPN 6 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/248.ts
+
+#EXTINF:-1,GE TV [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/328893.ts
+
+#EXTINF:-1,NFL [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/126459.ts
+
+#EXTINF:-1,OFF [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/253.ts
+
+#EXTINF:-1,Xsports [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/322392.ts
+
+#EXTINF:-1,SPORTYNET 1 [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/283780.ts
+
+#EXTINF:-1,SPORTYNET 2 [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/234049.ts
+
+#EXTINF:-1,SPORTYNET 3 [HD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/234038.ts
+
+#EXTINF:-1,SPORTV [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/555.ts
+
+#EXTINF:-1,SPORTV 2 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/553.ts
+
+#EXTINF:-1,SPORTV 3 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/554.ts
+
+#EXTINF:-1,PREMIERE CLUBES [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/524.ts
+
+#EXTINF:-1,PREMIERE 2 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/525.ts
+
+#EXTINF:-1,PREMIERE 3 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/526.ts
+
+#EXTINF:-1,PREMIERE 4 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/527.ts
+
+#EXTINF:-1,PREMIERE 5 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/528.ts
+
+#EXTINF:-1,PREMIERE 6 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/529.ts
+
+#EXTINF:-1,PREMIERE 7 [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/530.ts
+
+#EXTINF:-1,Premiere 8 [FHD][H265]
+
+http://pfast500.vip:80/tvcleber/cleber1995/329731.ts
+
+#EXTINF:-1,PREMIERE MOSAICO [FHD]
+
+http://pfast500.vip:80/tvcleber/cleber1995/333838.ts
+
