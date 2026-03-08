@@ -370,3 +370,6 @@ http://pfast500.vip:80/tvcleber/cleber1995/329731.ts
 
 http://pfast500.vip:80/tvcleber/cleber1995/333838.ts
 
+#EXTINF:-1,BIS [FHD]
+http://pfast500.vip:80/tvcleber/cleber1995/5.ts
+
